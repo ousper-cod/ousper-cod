@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ousper
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on html & css projects.
+- 😁 I can make good and professiol websites.
+- 📫 How to reach me @by_ousper on Instagram.
+--😊Thanks😊--
